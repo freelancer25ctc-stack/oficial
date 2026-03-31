@@ -1,0 +1,7 @@
+{
+  "name": "Gás Já Oficial EXPORT",
+  "description": "Aplicativo profissional para reserva e levantamento de botijas de gás de cozinha.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
